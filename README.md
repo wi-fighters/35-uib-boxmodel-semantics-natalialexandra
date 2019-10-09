@@ -1,4 +1,4 @@
-# It's all about semantics
+# It's a matter of semantics
 
 **Instructions**: 
 * Look at the mock-up image below - determine which elements are being used on the page. 
